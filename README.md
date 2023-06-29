@@ -24,9 +24,10 @@ Inserting that into the script, we are given a more refined set of possible word
 
 <img width="1100" alt="image" src="https://github.com/Tahsin21/WordleSolver/assets/22527648/3c312439-9fb7-40f2-9e40-31164550d2df">
 
+_The process continues until the correct word is found!_
+
 <img width="650" alt="image" src="https://github.com/Tahsin21/WordleSolver/assets/22527648/4a71b694-da4f-4aef-8982-20790ac5ca0f">
 
-_The process continues until the correct word is found_
 
 
 
