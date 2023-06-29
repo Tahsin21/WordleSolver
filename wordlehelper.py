@@ -51,7 +51,7 @@ while appActive:
     partialStr += "]+$"
 
 
-    with open(r"/Users/tahsinhassan/Downloads/words.txt", 'r') as finder:
+    with open(r"https://github.com/Tahsin21/WordleSolver/blob/5fca04962014086035754ecc5f1b103910db8623/words.txt", 'r') as finder:
         soluWords = []
         counter = 0
         lines = finder.readlines()
