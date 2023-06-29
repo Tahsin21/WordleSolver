@@ -1,4 +1,4 @@
-<img width="549" alt="image" src="https://github.com/Tahsin21/WordleSolver/assets/22527648/9501ed32-4459-4276-b931-1642c648b14b"># WordleSolver
+# WordleSolver
 
 Wordle is a game that gives a player 6 chances to guess a 5 letter word. Every time you guess a word, the game gives you feedback based on each letter. If the letter turns **green**, that means that the letter is in the correct position. If the letter is **yellow**, this letter exists in the word, but not at that index. If the letter is **grey**, that letter does not belong in the correct answer.
 
